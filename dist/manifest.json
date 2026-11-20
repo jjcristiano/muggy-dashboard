@@ -1,0 +1,26 @@
+{
+  "name": "Muggy Dashboard — Gestión Comercial y Estadísticas",
+  "short_name": "Muggy",
+  "description": "Dashboard administrativo privado de Muggy Sublimación & Bazar para gestión de ventas, costos, packaging y estadísticas.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FDFBF7",
+  "theme_color": "#FF0080",
+  "lang": "es-AR",
+  "icons": [
+    {
+      "src": "/assets/muggy-mascot.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/muggy-mascot.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
